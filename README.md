@@ -1,23 +1,18 @@
-# Better Together.
-A gallery meant to inspire.
+# om's desktop wallpaper collection.
+A collection of handpicked wallpapers that I like.
 
 ## ════ ⋆★⋆ ════
 
-## Touch the Color; See the Sound
+> Live demo can be found [here](https://oms-wp-collection.vercel.app/)
 
- When unexpected sadness really hits home & it's difficult to shake it... always remember it's the smallest things that manage to melt my heart.
-> Live demo can be found [here](https://image-gallery-eight-lac.vercel.app/)
-
-I even designed the SVG (Logo and Bridge files used on this project)
+SVG (Logo and Bridge files used on this project) designed by [CodeLikeAGirl29](https://github.com/CodeLikeAGirl29). Also this website is inspired from her image-gallery website :D
 
 ## Tech Stack
 
-- ![nextjs](https://camo.githubusercontent.com/8552f38715af0ea9f364801b055f7a2448812b49075860983d53a81414349623/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4e6578742e6a7326636f6c6f723d303030303030266c6f676f3d4e6578742e6a73266c6f676f436f6c6f723d464646464646266c6162656c3d)
+- Next.js
 
-- ![typescript](https://camo.githubusercontent.com/773cfd323f61dbc7301a98e28c69fbd0f27f491272f4acf48106936ca1d14c47/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5479706553637269707426636f6c6f723d333137384336266c6f676f3d54797065536372697074266c6f676f436f6c6f723d464646464646266c6162656c3d)
-
-- ![tailwindcss](https://camo.githubusercontent.com/5d16e7fdd964ebca50ca82d6c8b081045630340427c463f4470050acd4e50ef3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5461696c77696e642b43535326636f6c6f723d323232323232266c6f676f3d5461696c77696e642b435353266c6f676f436f6c6f723d303642364434266c6162656c3d)
-
+- Typescript
+- Tailwind CSS
 ---
 
 ## Environment Variables
@@ -68,16 +63,24 @@ CLOUDINARY_FOLDER=<specific-folder-name>
 
 ### Screenshots
 
-![App Screenshot](https://res.cloudinary.com/codelikeagirl29/image/upload/v1685775408/image-gallery-screenshot.png)
+![App Screenshot](https://github.com/user-attachments/assets/fc3ffaf2-1a69-4a27-b830-4aac89763c1c)
 
 ### Features
 
 ## Code
-![Vercel](http://therealsujitk-vercel-badge.vercel.app/?app=image-gallery-eight-lac.vercel.app)
+![Vercel](http://therealsujitk-vercel-badge.vercel.app/?app=oms-wp-collection.vercel.app)
 
 ### Build
 ```
     npm run build
+```
+### Run
+```
+    npm run start
+```
+### Run as dev
+```
+    npm run dev
 ```
  
 ### Deploy (how to install build product)
@@ -90,7 +93,7 @@ This example shows how to create an image gallery site using Next.js, [Cloudinar
 
 ## Demo
 
-View the demo [here](https://image-gallery-eight-lac.vercel.app/)
+View the demo [here](https://oms-wp-collection.vercel.app/)
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
