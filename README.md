@@ -68,7 +68,7 @@ CLOUDINARY_FOLDER=<specific-folder-name>
 ### Features
 
 ## Code
-![Vercel](http://therealsujitk-vercel-badge.vercel.app/?app=oms-wp-collection.vercel.app)
+![Vercel](http://therealsujitk-vercel-badge.vercel.app/?app=oms-wp-collection)
 
 ### Build
 ```
